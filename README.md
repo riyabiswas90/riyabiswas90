@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riya Biswas</h1>
-<h3 align="center">B.Sc. IT student building skills in web development and programming, and exploring the world of tech.</h3>
+<h3 align="center">Final-Year B.Sc Information Technology Student at Techno India University</h3>
+
+<h3 align="center">Python Developer | Generative AI & LLM Enthusiast | UI/UX Designer</h3>
+
+<h3 align="center">Open to Internships & Collaborations</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyabiswas90&label=Profile%20views&color=0e75b6&style=flat" alt="riyabiswas90" /> </p>
 
