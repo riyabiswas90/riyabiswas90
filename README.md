@@ -1,7 +1,5 @@
 Hi 👋, I'm Riya Biswas
-<p align="center">
-  <img src="file_00000000652c72078ef52da10b2dac8d.png" width="250" alt="Profile Image">
-</p>
+
 
 ### Final-Year B.Sc Information Technology Student at Techno India University
 
