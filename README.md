@@ -1,5 +1,9 @@
 # Hi 👋, I'm Riya Biswas
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/riyabiswas90/riyabiswas90/main/YOUR-FILE-NAME" width="100%">
+</p>
+
 ### Final-Year B.Sc Information Technology Student at Techno India University
 
 💻 Python Developer | 🤖 Generative AI & LLM Enthusiast | 🎨 UI/UX Designer
@@ -7,9 +11,7 @@
 🌱 Currently learning: Generative AI, Large Language Models, Full Stack Development
 
 🚀 Open to Internships, Collaborations & Learning Opportunities
-<p align="center">
-  <img src="https://raw.githubusercontent.com/riyabiswas90/riyabiswas90/main/FILENAME_HERE" width="100%">
-</p>
+
 📫 Reach me at: **rb3355492@gmail.com**
 
 ## Connect with Me
