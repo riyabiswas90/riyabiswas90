@@ -1,6 +1,6 @@
 Hi 👋, I'm Riya Biswas
 
- align="center">
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/riyabiswas90/riyabiswas90/main/YOUR-FILE-NAME" width="100%">
 </p>
